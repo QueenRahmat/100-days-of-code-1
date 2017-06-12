@@ -1,30 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Days Missed: 5
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+### Day 7: June 11, Monday
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: None coding wise but I finally joined the sloth-chingu.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts** The community seems great and I'm hopeful that this is something I can learn from
+
+
+
+### Day 8: June 12, Monday
+
+**Today's Progress**: 
+
+**Thoughts** I feel like restarting the challenge but I'm fed up with myself and lack of consistency. I finally feel that my summer has started and from now on will be able to dedicate my time to my goals. 
+
+
+### Day 8: June 12, Monday
+
+**Today's Progress**: 
+
+**Thoughts** 
