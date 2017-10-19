@@ -1,26 +1,6 @@
 # 100 Days Of Code - Log
 
-**Days Missed: 5
+### Day 1: Thursday 19th October
 
-
-
-### Day 7: June 11, Monday
-
-**Today's Progress**: None coding wise but I finally joined the sloth-chingu.
-
-**Thoughts** The community seems great and I'm hopeful that this is something I can learn from
-
-
-
-### Day 8: June 12, Monday
-
-**Today's Progress**: I did about an hours work and went through some of the free code camp exercises
-
-**Thoughts** I feel like restarting the challenge but I'm fed up with myself and lack of consistency. I finally feel that my summer has started and from now on will be able to dedicate my time to my goals. 
-
-
-### Day : June 12, Monday
-
-**Today's Progress**: 
-
-**Thoughts** 
+**Today's Progress**:
+**Thoughts**:  So after months of inconsistency I've decided to try the #100DaysOfCode Challenge again. I've struggled with being incosistent before and so I'm hoping this is finally the time where I actually stick to it 
