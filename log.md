@@ -14,6 +14,6 @@
 
 ### Day 3: Sunday 22nd October
 
-**Today's Progress**: Finished Week One of the coursera course.
+**Today's Progress**: Finished Introduction to Java activites on Codeacademy
 
-**Thoughts**:  So far not bad, I had a long day at work and despite not being my full one hour of code, I still did a little bit today and that's the goal. 
+**Thoughts**:  To be honest I could have done more with my day but I was really lazy. But I'm happy that I didn't break my chain of java coding and I hope to keep it up. 
